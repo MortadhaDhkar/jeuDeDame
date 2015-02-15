@@ -1,0 +1,57 @@
+Jeu de dames
+Caractéristiques générales des jeux traditionnels de dames
+Origine et histoire
+Description
+But du jeu
+Début de partie et mouvement des pièces
+Prises
+Fins de partie
+Règles particulaires de chaque jeu de dames
+Caractéristiques générales des jeux traditionnels de dames
+Même si le jeu de dames a évolué de façon bien différente dans beucoup de lieux du monde, avec des variantes bien différenciées, il y a toute une série de caractères communs qu´on passe à décrire tout de suite.
+
+Origine et histoire
+
+L´origine de cet ancien jeu de plateau n´est pas clair, quoiqu´existent de nombreuseus études et publications réalisés en Espagne qui portent sur son stratégie, datées déjà du XVIe. siècle. Il s´agit d´un jeu avec d´innobrables variantes.
+
+Description
+
+Il est joué sur un damier de 8x8, 10x10 ou 12x12 selon la variante. Le jeu a un nombre de pièces (pions) variable aussi (des tableaux plus grands ont un plus grand nombre de pièces), claires et obscures, dans la plus part des variantes situées dans les cases d´une même couleur (alternes) sur les premières rangées de chaque côté du tableau.
+
+But du jeu
+
+Le but du jeu est la prise de la totalité des pièces adverses, ou leur blocage, de sorte qu´ à leur tour, le déplacement devienne impossible (ce-ci, qu´ aux échecs serait semblable à terminer en un pat, au jeu de Dames ne termine pas en partie nulle, mais par contre c´est la défaite de celui qui a été emprisonné)
+
+La partie sera nulle si par le nombre de pièces ou leur position, la victoire d´un des adversaires devient techniquement impossible, ou si c´est comme ça que ça se décide d´un commun accord.
+
+Début de partie et mouvement des pièces
+
+Au cours de la partie il y a deux types de pièces bien différenciées: pions et dames.
+
+Le jeu commence avec tous les pions de chaque joueur situés sur ses cases respectives.
+
+Dans la plus part des variantes du jeu (dans toutes sauf au jeu de dames turc) les pions se déplacent en diagonal tant vers la droite comme vers la gauche, vers l´avant et toujours d´une seule case.
+
+Quand un pion atteit la première rangée de l´adversaire, il est couroné, et il se transforme en dame. Elle se distingue des pions parce qu´on place en dessus un autre pion de sa même couleur.
+
+Sauf au jeu de dames russe dans toutes les autre variantes, quand un pion est couronné il termine son mouvement et ne peut plus poursuivre son mouvement comme dame jusqu´au tour suivant.
+
+Les dames, comme les pions, dans la plus part des variantes ont mouvement diagonal mais elles ont une série de pouvoirs spéciaux plus ou moins grands selon la variante, comme par exemple la possibilité de se déplacer tant vers l´arrière comme vers l´avant ou dans la plus part des variantes aussi elles peuvent se déplacer un nombre cases illimité dans leurs diagonales. En tout cas les dames sont toujours des pièces plus fortes que les pions.
+
+Prises
+
+Le pion fait les prises en diagonal dans la plus part des variantes, en sautant par dessus de la pièce adverse qui va être capturée, et termine sur la case inmédiatement derrière celle-ci (dans le sens de la prise), et si le pion qui fait la prise est dans une case adjacente et que la case de derrière soit libre pour qu´il termine sur cette case. Il y a des variantes ou les pions capturent vers l´avant et vers l´arrière et d´autres où seulement on peut faire les prises vers l´avant.
+
+La prise avec dame est semblable à la prise avec pion, mais comme pour les mouvements, dans chacune des variantes la dame a plus de pouvoir que les pions. Dans toutes les variantes la dame peut capturar aussi bien vers l´avant que vers l´arrière et dans la plus part des variantes la pièce a prendre ne doit pas être sur une case adjacente à celle de la dame pourvu qu´elles soient sur la même ligne et sans pièces entre la dame et la pièce à capturer. Le mouvement ne doit pas non plus terminer dans la case inmédiatement derrière de la pièce capturée. Ce que la dame ne peut jamais faire est sauter par dessus ses propres pièces, et ne peut jamais capturer deux pièces adverses situées sur deux cases adjencentes entre elles.
+
+La prise est obligatoire, et alors si à son tour un joueur a une ou plusieurs pièces en situation de faire des prises, il devra déplacer une de ces pièces qui font la ou les prises, et ne pourra pas déplacer une pièce qui ne soit pas en situation de capturer.
+
+Soit avec dame ou avec pion, si aprés une prise, la pièce continue en situation de réaliser une nouvelle prise, cette prise devra se faire et ainsi succésivement jusqu´`a ce qu´il n´y ait pas d´autres pièces à capturer.
+
+Dans le cas précédent, dans toutes les variantes du jeu sauf au jeu de dames turc, les pièces capturées ne seront pas retirées du tableau jusqu´à ce qu´on termine tout le mouvement, et une pièce ne peut pas sauter deux fois sur une même pièce.
+
+Fins de partie
+
+Toutes les variantes ont des règles qui limitent le nombre de mouvements dans certaines circonstances de fin de partie afin d´éviter des prolongations innécessaires des parties quand il est évident que la partie ne va pas pouvoir être gagnée par aucun des joueurs et va être sûrement partie nulle. Dans ces cas-ci d´habitude ce sont les propres joueurs qui accordent faire partie nulle même avant d´atteindre le nombre de mouvements permis à chaque cas et variante.
+
+On considérera également partie nulle si la même position des pièces se répète trois fois sur le tableau au cours de la partie.

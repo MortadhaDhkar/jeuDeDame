@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1398269028 source:d:\mortadha\miniprojet\jeuxeddame\main.cpp
+	<iostream>
+	"Plateau.h"
+
+1397949324 source:d:\mortadha\miniprojet\jeuxeddame\joueur.cpp
+	"Joueur.h"
+	<iostream>
+
+1397949415 d:\mortadha\miniprojet\jeuxeddame\joueur.h
+	<string>
+
+1398268552 d:\mortadha\miniprojet\jeuxeddame\include\joueur.h
+	<string>
+
+1398264172 d:\mortadha\miniprojet\jeuxeddame\plateau.h
+	"Case.h"
+
+1398264042 d:\mortadha\miniprojet\jeuxeddame\include\case.h
+
+1398263951 source:d:\mortadha\miniprojet\jeuxeddame\src\case.cpp
+	"Case.h"
+
+1398264240 source:d:\mortadha\miniprojet\jeuxeddame\src\piece.cpp
+	"Piece.h"
+
+1398264228 d:\mortadha\miniprojet\jeuxeddame\include\piece.h
+
+1398268696 source:d:\mortadha\miniprojet\jeuxeddame\src\plateau.cpp
+	"Plateau.h"
+
+1398264566 d:\mortadha\miniprojet\jeuxeddame\include\plateau.h
+	"Case.h"
+
+1398268549 source:d:\mortadha\miniprojet\jeuxeddame\src\rafle.cpp
+	"Rafle.h"
+	"Case.h"
+	"Joueur.h"
+	"piece.h"
+
+1398267899 d:\mortadha\miniprojet\jeuxeddame\include\rafle.h
+	<vector>
+	"Case.h"
+	"Joueur.h"
+	"piece.h"
+
+1400683322 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\src\case.cpp
+	"Case.h"
+	"Piece.h"
+
+1400685512 d:\mortadha\miniprojet\ddamm\jeuxeddame\include\case.h
+	"Piece.h"
+
+1399900220 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\src\plateau.cpp
+	"Plateau.h"
+	"Piece.h"
+	<cstring>
+	<windows.h>
+
+1400079168 d:\mortadha\miniprojet\ddamm\jeuxeddame\include\plateau.h
+	<iostream>
+	"Rafle.h"
+	"Piece.h"
+	"Case.h"
+	"Joueur.h"
+
+1400719764 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\src\rafle.cpp
+	"Rafle.h"
+	"Case.h"
+	"Joueur.h"
+	"piece.h"
+	"Plateau.h"
+
+1400720130 d:\mortadha\miniprojet\ddamm\jeuxeddame\include\rafle.h
+	"Case.h"
+	"Joueur.h"
+	"piece.h"
+	"Plateau.h"
+
+1400085406 d:\mortadha\miniprojet\ddamm\jeuxeddame\include\joueur.h
+	<string>
+	"Plateau.h"
+
+1399987036 d:\mortadha\miniprojet\ddamm\jeuxeddame\include\piece.h
+	<typeinfo>
+	<string>
+
+1400720130 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	"Plateau.h"
+	"Joueur.h"
+	<cstdlib>
+	<windows.h>
+	"Piece.h"
+	"Rafle.h"
+	"Arbitre.h"
+
+1399686012 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\src\piece.cpp
+	"Piece.h"
+	<iostream>
+
+1398333254 d:\mortadha\miniprojet\ddamm\jeuxeddame\plateau.h
+	<iostream>
+	"Case.h"
+
+1398159237 d:\mortadha\miniprojet\ddamm\jeuxeddame\joueur.h
+	<string>
+
+1400106304 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\src\joueur.cpp
+	"Joueur.h"
+	"Plateau.h"
+	<iostream>
+
+1399817438 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\src\help.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<windows.h>
+
+1400674430 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\rafle2.cpp
+	"Rafle.h"
+	"Case.h"
+	"Joueur.h"
+	"piece.h"
+	"Plateau.h"
+
+1400720152 source:d:\mortadha\miniprojet\ddamm\jeuxeddame\include\arbitre.cpp
+	"Arbitre.h"
+	"Plateau.h"
+	"Joueur.h"
+	<cstdlib>
+	<windows.h>
+	"Piece.h"
+	"Rafle.h"
+
+1400719528 d:\mortadha\miniprojet\ddamm\jeuxeddame\include\arbitre.h
+	<Plateau.h>
+	"Rafle.h"
+
+1400720152 source:c:\users\moi\desktop\jeuxeddame\include\arbitre.cpp
+	"Arbitre.h"
+	"Plateau.h"
+	"Joueur.h"
+	<cstdlib>
+	<windows.h>
+	"Piece.h"
+	"Rafle.h"
+
+1400719528 c:\users\moi\desktop\jeuxeddame\include\arbitre.h
+	<Plateau.h>
+	"Rafle.h"
+
+1400079168 c:\users\moi\desktop\jeuxeddame\include\plateau.h
+	<iostream>
+	"Rafle.h"
+	"Piece.h"
+	"Case.h"
+	"Joueur.h"
+
+1400720130 c:\users\moi\desktop\jeuxeddame\include\rafle.h
+	"Case.h"
+	"Joueur.h"
+	"piece.h"
+	"Plateau.h"
+
+1400685512 c:\users\moi\desktop\jeuxeddame\include\case.h
+	"Piece.h"
+
+1399987036 c:\users\moi\desktop\jeuxeddame\include\piece.h
+	<typeinfo>
+	<string>
+
+1400085406 c:\users\moi\desktop\jeuxeddame\include\joueur.h
+	<string>
+	"Plateau.h"
+
+1400724698 source:c:\users\moi\desktop\jeuxeddame\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	"Plateau.h"
+	"Joueur.h"
+	<cstdlib>
+	<windows.h>
+	"Piece.h"
+	"Rafle.h"
+	"Arbitre.h"
+
+1400674430 source:c:\users\moi\desktop\jeuxeddame\rafle2.cpp
+	"Rafle.h"
+	"Case.h"
+	"Joueur.h"
+	"piece.h"
+	"Plateau.h"
+
+1400683322 source:c:\users\moi\desktop\jeuxeddame\src\case.cpp
+	"Case.h"
+	"Piece.h"
+
+1399817438 source:c:\users\moi\desktop\jeuxeddame\src\help.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<windows.h>
+
+1400106304 source:c:\users\moi\desktop\jeuxeddame\src\joueur.cpp
+	"Joueur.h"
+	"Plateau.h"
+	<iostream>
+
+1399686012 source:c:\users\moi\desktop\jeuxeddame\src\piece.cpp
+	"Piece.h"
+	<iostream>
+
+1400724933 source:c:\users\moi\desktop\jeuxeddame\src\plateau.cpp
+	"Plateau.h"
+	"Piece.h"
+	<cstring>
+	<windows.h>
+
+1400720174 source:c:\users\moi\desktop\jeuxeddame\src\rafle.cpp
+	"Rafle.h"
+	"Case.h"
+	"Joueur.h"
+	"piece.h"
+	"Plateau.h"
+
